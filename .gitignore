@@ -23,3 +23,6 @@
 # Build directories
 */msvc*/[Rr]elease - *
 */msvc*/[Dd]ebug - *
+
+extension/build
+
